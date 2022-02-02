@@ -1,5 +1,11 @@
-body {
+html {
   background-image: linear-gradient(#fc5e55, #fa4083);
+}
+
+body {
+  background-image: url(images/image-lion-background.png);
+  background-position: top center;
+  background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
   color: white;
   font-size: 1.125rem;
@@ -137,6 +143,8 @@ a.mybutton {
   font-family: 'Playfair Display', serif;
   border: 1px solid white;
   padding: 10px 30px;
+  display: inline-block;
+  position: relative;
 }
 
 .testimonials {
@@ -157,4 +165,25 @@ a.mybutton {
 .tbox p:last-of-type {
   font-size: 0.8rem;
   padding-left: 30px;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.navbutton:hover .dropdown {
+  display: block;
+}
+
+.dropdown .navbutton {
+  width: 140px;
+  background-color: white;
+}
+
+.dropdown .navbutton a {
+  color: #fa4083;
 }
