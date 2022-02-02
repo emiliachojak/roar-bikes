@@ -1,4 +1,4 @@
 # roar-bikes
 Simple HTML5 CSS3 project - fictional Roar Bikes webpage
 
-![screencapture-127-0-0-1-5500-2022-02-01-23_55_04](https://user-images.githubusercontent.com/58707042/152065632-523b939e-f9a7-4edd-a50d-e4c584b3d444.png)
+![screencapture-file-Users-emiliachojak-development-projects-bootstrap-adare-restaurant-project-index-html-2022-01-30-22_06_43](https://user-images.githubusercontent.com/58707042/152239490-08161c08-1529-42c8-9fa6-62ab3ee51a67.png)
