@@ -38,6 +38,11 @@ main {
   align-items: center;
 }
 
+.main2 {
+  min-height: 300px;
+  padding-top: 25px;
+}
+
 .cards {
   display: flex;
   justify-content: space-between;
